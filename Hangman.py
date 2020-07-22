@@ -1,3 +1,5 @@
+#This an implementation for the hangman game in which a random word is given and you have to guess the word, You can only guess wrong 6 six times after which you lose and the correct answer is displayed
+
 import random
 
 listOfWord = ["Jesus", "is" , "best" , "so" , "thank", "God" , "today" ,"apple", "banana", "mango", "strawberry",  "orange", "grape", "pineapple", "apricot", "lemon", "coconut" ,"watermelon",
