@@ -1,16 +1,20 @@
 if __name__ == '__main__':
     n = int(input())
-    arr = (input().split())
+    arr = map(int, input().split())
+    arr2 = [x for x in list(arr) ]
 
-    
-    
-    arr.sort()
 
-    last = arr[len(arr)-1]
+    arr2.sort()
 
-    app = arr.count(last)
+    last = arr2[len(arr2)-1]
+
+    app = arr2.count(last)
    
  
-#arr[len(arr) - app]
 
-    print(arr[len(arr)-app -1] )
+
+    print(arr2[len(arr2)-app -1] )
+    
+  
+
+ 
