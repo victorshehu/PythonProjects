@@ -2,6 +2,7 @@
 
 import random
 
+
 listOfWord = ["Jesus", "is" , "best" , "so" , "thank", "God" , "today" ,"apple", "banana", "mango", "strawberry",  "orange", "grape", "pineapple", "apricot", "lemon", "coconut" ,"watermelon",
 "cherry", "papaya", "berry", "peach", "lychee", "muskmelon"] # List of words
 
